@@ -10,3 +10,6 @@ if colour == "red":
   print("Good, my favourite colour!")
 else:
   print("Colour is irrelevant.")
+
+print("moons: ", moons)
+
